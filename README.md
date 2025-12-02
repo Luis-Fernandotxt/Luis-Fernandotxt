@@ -1,5 +1,5 @@
 
-<img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=280 align="left" style="margin-right: 60px;">
+<img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=310 align="left" style="margin-right: 60px;">
 <div align="center">
 
 <!-- Quem Sou Eu? -->
