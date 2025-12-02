@@ -1,6 +1,6 @@
 
 <img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=330 align="left">
-<div align="center">
+<div>
 
 <!-- Quem Sou Eu? -->
 <h3 align="center">
