@@ -1,5 +1,5 @@
 
-<img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=280 align="left" style="margin-right: 20px;">
+<img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=280 align="left" style="margin-right: 45px;">
 <div align="center">
 
 <!-- Quem Sou Eu? -->
@@ -8,7 +8,7 @@
  <img src="https://img.icons8.com/?size=100&id=SsXq9UghLy-L&format=png&color=FFFFFF" width=20>
 </h3>
 
-<div style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
+<div align="justify" style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
 
 Sou estudante de **Ciência de Dados** e atuo como **Assistente Administrativo com foco em Análise de Dados**.
 Minha jornada é guiada pela busca em transformar dados em insights claros que apoiem a **tomada de decisões estratégicas**.
