@@ -8,7 +8,7 @@
  <img src="https://img.icons8.com/?size=100&id=SsXq9UghLy-L&format=png&color=FFFFFF" width=20>
 </h3>
 
-<div align="justify" style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
+<div style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
 
 Sou estudante de **Ciência de Dados** e atuo como **Assistente Administrativo com foco em Análise de Dados**.
 Minha jornada é guiada pela busca em transformar dados em insights claros que apoiem a **tomada de decisões estratégicas**.
