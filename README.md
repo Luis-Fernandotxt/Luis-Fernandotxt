@@ -2,15 +2,14 @@
 <img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=280 align="left" style="margin-right: 20px;">
 <div align="center">
 
-<!-- Seção "Quem Sou Eu?" para o seu perfil -->
+<!-- Quem Sou Eu? -->
 <h3 align="center">
-<img src="./assets/icons/user-white.svg" width=18>
- Quem Sou Eu? 
-<img src="./assets/icons/user-black.svg" width=22>
+ <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/user--v1.png" width=20>
+  Quem Sou Eu? 
+ <img src="https://img.icons8.com/ios-glyphs/30/000000/user--v1.png" width=20>
 </h3>
-<br>
 
-<div align="justify">
+<div align="justify" style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
 
 Sou estudante de **Ciência de Dados** e atuo como **Assistente Administrativo com foco em Análise de Dados**.
 Minha jornada é guiada pela busca em transformar dados em insights claros que apoiem a **tomada de decisões estratégicas**.
@@ -24,23 +23,24 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 
 
 
-
-
 <!-- Gif  -->
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- Um Pouco Mais Sobre Mim -->
 <h3 align="center">
- <img src="./assets/icons/user-white.svg" width=15>
+ <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/about-us-male.png" width=20>
   Um Pouco Mais Sobre Mim 
- <img src="./assets/icons/user-black.svg" width=15>
+ <img src="https://img.icons8.com/ios-glyphs/30/000000/about-us-male.png" width=20>
 </h3>
 
-⬛ Valorizo trabalhar ao lado de profissionais experientes que me desafiam a crescer.</br>
-⬜ Atualmente atuo em projetos de análise de dados e visualizações com Python, R e SQL.</br>
-⬛ Sempre disposto a colaborar e compartilhar conhecimentos sobre análise de dados e Ciência de Dados.</br>
-⬜ Interessado em projetos de grande escala que envolvam interpretação de dados e tomada de decisão estratégica.</br>
-⬛ Acredito na eficiência através da clareza e organização.
+<div style="margin-left: 40px; margin-right: 40px;">
+• Valorizo trabalhar ao lado de profissionais experientes que me desafiam a crescer.<br>
+• Atualmente atuo em projetos de análise de dados e visualizações com *Python**, **R** e **SQL**.<br>
+• Sempre disposto a colaborar e compartilhar conhecimentos sobre análise de dados e Ciência de Dados.<br>
+• Interessado em projetos de grande escala que envolvam interpretação de dados e tomada de decisão estratégica.<br>
+• Acredito na eficiência através da clareza e organização.
+</div>
+<br>
  ㅤ
   <!-- spotify and more --> 
   <div align="center"> 
