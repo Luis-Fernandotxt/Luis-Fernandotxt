@@ -4,9 +4,8 @@
 
 <!-- Quem Sou Eu? -->
 <h3 align="center">
- <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/user--v1.png" width=20>
   Quem Sou Eu? 
- <img src="https://img.icons8.com/ios-glyphs/30/000000/user--v1.png" width=20>
+ <img src="https://img.icons8.com/?size=100&id=SsXq9UghLy-L&format=png&color=FFFFFF" width=20>
 </h3>
 
 <div align="justify" style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
@@ -23,24 +22,24 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 
 
 
+
+
 <!-- Gif  -->
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
 
 <!-- Um Pouco Mais Sobre Mim -->
 <h3 align="center">
- <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/about-us-male.png" width=20>
   Um Pouco Mais Sobre Mim 
- <img src="https://img.icons8.com/ios-glyphs/30/000000/about-us-male.png" width=20>
+ <img src="https://img.icons8.com/?size=100&id=85772&format=png&color=FFFFFF" width=20>
 </h3>
 
-<div style="margin-left: 40px; margin-right: 40px;">
-• Valorizo trabalhar ao lado de profissionais experientes que me desafiam a crescer.<br>
-• Atualmente atuo em projetos de análise de dados e visualizações com *Python**, **R** e **SQL**.<br>
-• Sempre disposto a colaborar e compartilhar conhecimentos sobre análise de dados e Ciência de Dados.<br>
-• Interessado em projetos de grande escala que envolvam interpretação de dados e tomada de decisão estratégica.<br>
-• Acredito na eficiência através da clareza e organização.
-</div>
-<br>
+<div align="justify" style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
+
+
+⬜ Atualmente atuo em projetos de análise de dados e visualizações com Python, R e SQL.</br>
+⬛ Sempre disposto a colaborar e compartilhar conhecimentos sobre análise de dados e Ciência de Dados.</br>
+⬜ Interessado em projetos de grande escala que envolvam interpretação de dados e tomada de decisão estratégica.</br>
+⬛ Acredito na eficiência através da clareza e organização.
  ㅤ
   <!-- spotify and more --> 
   <div align="center"> 
