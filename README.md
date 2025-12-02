@@ -1,14 +1,14 @@
 
-<img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=330 align="left">
+<img src="https://media1.tenor.com/m/65YWpeD5t5QAAAAC/blasphemy-blasphemous.gif" width=280 align="left" style="margin-right: 20px;">
 <div align="center">
 
 <!-- Quem Sou Eu? -->
 <h3 align="center">
+     <img src="https://img.icons8.com/?size=100&id=SsXq9UghLy-L&format=png&color=FFFFFF" width=20>
   Quem Sou Eu? 
- <img src="https://img.icons8.com/?size=100&id=SsXq9UghLy-L&format=png&color=FFFFFF" width=20>
 </h3>
 
-<div style="margin-left: 35px; margin-right: 35px; line-height: 1.6;">
+<div align="justify" style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
 
 Sou estudante de **Ciência de Dados** e atuo como **Assistente Administrativo com foco em Análise de Dados**.
 Minha jornada é guiada pela busca em transformar dados em insights claros que apoiem a **tomada de decisões estratégicas**.
@@ -19,18 +19,19 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 
 </div>
 <br>
-
+<!-- ADICIONE MAIS ESPAÇAMENTO AQUI -->
+<br>
 
 
 
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<img align="right" alt="capa-Sobre" width="250" src="https://i.pinimg.com/originals/40/d7/c3/40d7c34cc70da09910a282dde3286a71.gif"></br>
 
 <!-- Um Pouco Mais Sobre Mim -->
 <h3 align="center">
+    <img src="https://img.icons8.com/?size=100&id=85772&format=png&color=FFFFFF" width=20>
   Um Pouco Mais Sobre Mim 
- <img src="https://img.icons8.com/?size=100&id=85772&format=png&color=FFFFFF" width=20>
 </h3>
 
 <div align="justify" style="margin-left: 30px; margin-right: 30px; line-height: 1.6;">
@@ -59,18 +60,22 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 </div>
 </br>
 
+<!-- ADICIONE MAIS ESPAÇAMENTO AQUI -->
+<br>
+<br>
+
+
 
 <!-- Dashboard Interativo -->
 <h3 align="center">
- <img src="./assets/icons/chart-white.svg" width=25>
   GitHub Dashboard 
- <img src="./assets/icons/chart-black.svg" width=25>
+ <img src="https://img.icons8.com/?size=100&id=106562&format=png&color=FFFFFF" width=25>
 </h3>
 <br>
 
 <div align="center">
  <a href="https://dashboard-perfil.vercel.app" target="_blank">
-   <img src="https://raw.githubusercontent.com/Luis-Fernandotxt/dashboard_perfil/main/dashboard-preview.png" alt="Preview do Meu Dashboard GitHub" width="85%" style="border-radius: 12px; border: 2px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+   <img src="https://raw.githubusercontent.com/Luis-Fernandotxt/dashboard_perfil/main/dashboard-preview.png" alt="Preview do Meu Dashboard GitHub" width="45%" style="border-radius: 12px; border: 2px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
  </a>
  <br><br>
  <sub><i>🚀 Clique na imagem para explorar estatísticas em tempo real no dashboard completo</i></sub>
@@ -78,25 +83,23 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
     
 </div>
 
-
-
+<!-- ADICIONE MAIS ESPAÇAMENTO AQUI -->
+<br>
+<br>
+<br>
 
 <!-- My Tech Stack -->
 
 <h3 align="center">
- <img src="./assets/icons/stack-white.svg" width=17>
+    <img src="https://img.icons8.com/?size=100&id=91666&format=png&color=FFFFFF" width=20>
  My Tech Stack
- <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino" /><br>
+     <img src="https://skillicons.dev/icons?i=python,anaconda,mysql,sqlite,supabase,html,css,r&theme=dark&perline=15" width="50%">
+    <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="48" alt="R Programming Icon" style="margin-left: px;" />
 </div>
 
 <br/>
