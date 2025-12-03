@@ -26,7 +26,7 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="190" src="https://i.pinimg.com/originals/40/d7/c3/40d7c34cc70da09910a282dde3286a71.gif"></br>
+<img align="right" alt="capa-Sobre" width="120" src="https://i.pinimg.com/originals/40/d7/c3/40d7c34cc70da09910a282dde3286a71.gif"></br>
 
 <!-- Um Pouco Mais Sobre Mim -->
 <h3 align="center">
