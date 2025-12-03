@@ -99,7 +99,7 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 
 <div align="center">
      <img src="https://skillicons.dev/icons?i=python,anaconda,mysql,sqlite,supabase,html,css,r&theme=dark&perline=15" width="50%">
-    <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="20" alt="R Programming Icon" style="margin-left: px;" />
+    <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="25" alt="R Programming Icon" style="margin-left: px;" />
 </div>
 
 <br/>
