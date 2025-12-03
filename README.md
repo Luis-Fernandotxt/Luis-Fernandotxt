@@ -26,7 +26,7 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="250" src="https://i.pinimg.com/originals/40/d7/c3/40d7c34cc70da09910a282dde3286a71.gif"></br>
+<img align="right" alt="capa-Sobre" width="190" src="https://i.pinimg.com/originals/40/d7/c3/40d7c34cc70da09910a282dde3286a71.gif"></br>
 
 <!-- Um Pouco Mais Sobre Mim -->
 <h3 align="center">
@@ -75,7 +75,7 @@ Tenho um grande interesse em contribuir com projetos e ambientes que me desafiem
 
 <div align="center">
  <a href="https://dashboard-perfil.vercel.app" target="_blank">
-   <img src="https://raw.githubusercontent.com/Luis-Fernandotxt/dashboard_perfil/main/dashboard-preview.png" alt="Preview do Meu Dashboard GitHub" width="45%" style="border-radius: 12px; border: 2px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+   <img src="https://raw.githubusercontent.com/Luis-Fernandotxt/dashboard_perfil/main/dashboard-preview.png" alt="Preview do Meu Dashboard GitHub" width="60%" style="border-radius: 12px; border: 2px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
  </a>
  <br><br>
  <sub><i>🚀 Clique na imagem para explorar estatísticas em tempo real no dashboard completo</i></sub>
